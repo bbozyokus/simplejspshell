@@ -6,8 +6,6 @@ A lightweight JSP-based web shell for penetration testing and security assessmen
 
 - **Remote Command Execution**: Execute system commands via web interface
 - **Multi-Platform Support**: Windows (CMD/PowerShell) and Linux (SH)
-- **File Upload Capability**: Upload tools and payloads to target system
-- **Stealth Design**: Minimal footprint with standard JSP technology
 - **Legacy Compatibility**: Works on Tomcat 5.0+ and Java 1.4+
 
 ## Deployment
@@ -36,4 +34,5 @@ No additional configuration required for either method.
 - **Application Servers**: Tomcat 5.0-11.x, JBoss, WebLogic
 - **Java Versions**: 1.4 through 21
 - **Operating Systems**: Windows, Linux, Unix variants
+
 - **Browsers**: All major browsers including legacy versions
